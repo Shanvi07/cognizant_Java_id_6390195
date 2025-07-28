@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/Cognizant_java.iml" filepath="$PROJECT_DIR$/.idea/Cognizant_java.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/accountservice/src/src.iml" filepath="$PROJECT_DIR$/accountservice/src/src.iml" />
+>>>>>>> 1b69c0eac797017c466383c4e666eaaa8c4f5dea
     </modules>
   </component>
 </project>
