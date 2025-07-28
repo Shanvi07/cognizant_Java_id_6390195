@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1_SingletonPatternExample/1_SingletonPatternExample.iml" filepath="$PROJECT_DIR$/1_SingletonPatternExample/1_SingletonPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_FactoryMethodPatternExample/2_FactoryMethodPatternExample.iml" filepath="$PROJECT_DIR$/2_FactoryMethodPatternExample/2_FactoryMethodPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_BuilderPatternExample/3_BuilderPatternExample.iml" filepath="$PROJECT_DIR$/3_BuilderPatternExample/3_BuilderPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_AdapterPatternExample/4_AdapterPatternExample.iml" filepath="$PROJECT_DIR$/4_AdapterPatternExample/4_AdapterPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_DecoratorPatternExample/5_DecoratorPatternExample.iml" filepath="$PROJECT_DIR$/5_DecoratorPatternExample/5_DecoratorPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_ProxyPatternExample/6_ProxyPatternExample.iml" filepath="$PROJECT_DIR$/6_ProxyPatternExample/6_ProxyPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_ObserverPatternExample/7_ObserverPatternExample.iml" filepath="$PROJECT_DIR$/7_ObserverPatternExample/7_ObserverPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_StrategyPatternExample/8_StrategyPatternExample.iml" filepath="$PROJECT_DIR$/8_StrategyPatternExample/8_StrategyPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_CommandPatternExample/9_CommandPatternExample.iml" filepath="$PROJECT_DIR$/9_CommandPatternExample/9_CommandPatternExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cognizant_Java_id_6390195.iml" filepath="$PROJECT_DIR$/cognizant_Java_id_6390195.iml" />
+    </modules>
+  </component>
+</project>
